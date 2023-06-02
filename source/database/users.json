@@ -1,0 +1,45 @@
+[{
+    "_id": {
+        "$oid": "644aabb3d6803725d634058c"
+    },
+    "name": "Nguyễn Tiến Đạt",
+    "email": "ntd@gmail.com",
+    "password": "$2b$10$dWtG8VGy5cCNkkxb./00suC01G9Edoc0PRRV2blF952kVZcmoatoq",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615219/gcctifdjsvwssboconhm.jpg",
+    "status": "offline",
+    "newMessages": {},
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "644aac0ad6803725d6340590"
+    },
+    "name": "Nguyễn Tấn Lực",
+    "email": "ntl@gmail.com",
+    "password": "$2b$10$fq6DTT5NoYVejb3YdYvpj.JR6fde9b4tqBlaYdgmK0UHci0gFOwPq",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615306/akowwnmwgwzntgjnbjai.jpg",
+    "status": "offline",
+    "newMessages": {},
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "644aac39d6803725d6340594"
+    },
+    "name": "Huỳnh Khánh Duy",
+    "email": "hkd@gmail.com",
+    "password": "$2b$10$Oc21KUMkQoWhURehaWgN6u9MB0att31oADrwP7vNtVwSAAoZHjMNu",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615353/jacip4dnhlf6hutlvjwu.jpg",
+    "status": "offline",
+    "newMessages": {},
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "644aac61d6803725d6340598"
+    },
+    "name": "Cao Nguyên Bình",
+    "email": "cnb@gmail.com",
+    "password": "$2b$10$i0uTcvaDQggdGzX6dBdrnuRF3AlHPsdrZQpmFCEohwYfa95b3IrKK",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615393/kd62wlbbwnuosjw8p9ew.jpg",
+    "status": "offline",
+    "newMessages": {},
+    "__v": 0
+}]

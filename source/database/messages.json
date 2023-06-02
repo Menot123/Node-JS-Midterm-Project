@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "644aac78d6803725d634059d"
+  },
+  "content": "Chào Lực nhé!",
+  "from": {
+    "name": "Cao Nguyên Bình",
+    "email": "cnb@gmail.com",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615393/kd62wlbbwnuosjw8p9ew.jpg",
+    "status": "online",
+    "_id": "644aac61d6803725d6340598",
+    "__v": 0
+  },
+  "time": "0:10",
+  "date": "04/28/2023",
+  "to": "644aac61d6803725d6340598-644aac0ad6803725d6340590",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aac89d6803725d63405a1"
+  },
+  "content": "Ơi Lực nghe!",
+  "from": {
+    "name": "Nguyễn Tấn Lực",
+    "email": "ntl@gmail.com",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615306/akowwnmwgwzntgjnbjai.jpg",
+    "status": "online",
+    "_id": "644aac0ad6803725d6340590",
+    "__v": 0
+  },
+  "time": "0:10",
+  "date": "04/28/2023",
+  "to": "644aac61d6803725d6340598-644aac0ad6803725d6340590",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aac9cd6803725d63405a6"
+  },
+  "content": "Lực khỏe hông",
+  "from": {
+    "name": "Cao Nguyên Bình",
+    "email": "cnb@gmail.com",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615393/kd62wlbbwnuosjw8p9ew.jpg",
+    "status": "online",
+    "_id": "644aac61d6803725d6340598",
+    "__v": 0
+  },
+  "time": "0:10",
+  "date": "04/28/2023",
+  "to": "644aac61d6803725d6340598-644aac0ad6803725d6340590",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aacb0d6803725d63405aa"
+  },
+  "content": "Nay tôi có công nghệ mới nè mọi người!",
+  "from": {
+    "name": "Huỳnh Khánh Duy",
+    "email": "hkd@gmail.com",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615353/jacip4dnhlf6hutlvjwu.jpg",
+    "status": "online",
+    "_id": "644aac39d6803725d6340594",
+    "newMessages": {
+      "644aac61d6803725d6340598-644aac0ad6803725d6340590": 3
+    },
+    "__v": 0
+  },
+  "time": "0:11",
+  "date": "04/28/2023",
+  "to": "Công nghệ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aacbad6803725d63405ae"
+  },
+  "content": "Hay vậy",
+  "from": {
+    "name": "Cao Nguyên Bình",
+    "email": "cnb@gmail.com",
+    "picture": "http://res.cloudinary.com/dpfqwxz8r/image/upload/v1682615393/kd62wlbbwnuosjw8p9ew.jpg",
+    "status": "online",
+    "_id": "644aac61d6803725d6340598",
+    "__v": 0
+  },
+  "time": "0:11",
+  "date": "04/28/2023",
+  "to": "Công nghệ",
+  "__v": 0
+}]
